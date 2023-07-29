@@ -19,7 +19,7 @@ I Incorporate customer feedback, usage metrics, and usability findings into desi
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.worldvectorlogo.com%2Flogos%2Ffigma-5.svg&tbnid=vj02gaRv3rPzYM&vet=12ahUKEwjdw821jLSAAxVNnCcCHdswCQ4QMygFegUIARDOAQ..i&imgrefurl=https%3A%2F%2Fworldvectorlogo.com%2Flogo%2Ffigma-5&docid=wyFy_MFsuIrJOM&w=2500&h=689&q=figma%20logo&ved=2ahUKEwjdw821jLSAAxVNnCcCHdswCQ4QMygFegUIARDOAQ)"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
