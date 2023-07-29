@@ -53,4 +53,4 @@ I Incorporate customer feedback, usage metrics, and usability findings into desi
 
 <details>
  <summary><h3>👨‍💻 Jide's Design Journey</h3></summary>
-   I started my designer journey as a naive computer science enthusiast with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a UI/UX designer job upon graduation.
+   I started my designer journey as a naive computer science enthusiast with a passion to learn everything I could about this tech world. And all the while, teaching myself html, css and adobe xd development with a dream to build my own app, but that soon got overshadowed by my desire to excel in FIGMA. A desire that landed me a UI/UX designer job upon graduation.
