@@ -1,4 +1,4 @@
-# 🏄‍♂️ Jide Monii
+# 🏄‍♂️ kadir olajide
 
 **`Figma (Product designer|Socail Media Manager|Commmunity Manager)`**
 
