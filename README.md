@@ -27,7 +27,7 @@ I Incorporate customer feedback, usage metrics, and usability findings into desi
 
 
 
-[<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnew2youshop.org%2F2019%2F05%2F01%2Ffollow-us-on-facebook-instagram%2F&psig=AOvVaw3u-0brUbxy3ufxfKX4dHlX&ust=1690727656490000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLDgyr6RtIADFQAAAAAdAAAAABAE"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
+[<img src=""/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 
 #
