@@ -4,8 +4,8 @@
 
 I'm a Nigerian product designer and content creator building my version of the digital world one step at a time. All design projects are built from the ground up, from planning and designing all the way to solving real-life problems with Figma. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
 
-## Job Description
-I create user-centered designs by understanding business requirements, and user feedback
+## What I do
+I create user-centered designs by understanding business requirements, and user feedback\n
 I Create user flows, wireframes, prototypes and mockups
 I Translate requirements into style guides, design systems, design patterns and attractive user interfaces
 I design UI elements such as input controls, navigational components and informational components
