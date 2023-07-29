@@ -21,7 +21,7 @@ I Incorporate customer feedback, usage metrics, and usability findings into desi
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F930374612850356203%2FFigma-SVG-Logo-%26-Wordmark&psig=AOvVaw3XFNO7PEh4VR4dToQrYQtZ&ust=1690727073732000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID2oqePtIADFQAAAAAdAAAAABAE)" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="[[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F930374612850356203%2FFigma-SVG-Logo-%26-Wordmark&psig=AOvVaw3XFNO7PEh4VR4dToQrYQtZ&ust=1690727073732000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCID2oqePtIADFQAAAAAdAAAAABAE)"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dfigma&psig=AOvVaw20L8Sxtiz5TBmZaK53eQ1p&ust=1690727127667000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCND_1sCPtIADFQAAAAAdAAAAABAE) />
    
 <br />
 
