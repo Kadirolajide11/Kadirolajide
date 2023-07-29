@@ -4,8 +4,8 @@
 
 I'm a Nigerian product designer and content creator building my version of the digital world one step at a time. All design projects are built from the ground up, from planning and designing all the way to solving real-life problems with Figma. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. 
 
-Example work video
-https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif
+## Examples of Work
+<img src="https://github.com/adriantwarog/adriantwarog/blob/master/covid19.gif" width="512" >
 
    <p align="left">
       <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
